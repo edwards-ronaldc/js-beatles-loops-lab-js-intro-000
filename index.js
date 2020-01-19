@@ -15,7 +15,7 @@ return array3
 function iLoveTheBeatles(num) {var array1 = []; var counter = num;
 function incrementalVariable(){return counter++}
 
-do {array1.push("I love the Beatles")} while (incrementalVariable() < 15);
+do {array1.push("I love the Beatles!")} while (incrementalVariable() < 15);
 
 return array1
 }
